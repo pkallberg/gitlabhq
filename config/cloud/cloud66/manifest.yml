@@ -1,5 +1,5 @@
 production:
-  docker: configuration
+    docker: configuration
     rails: 
         server:
             unique_name: frontend
